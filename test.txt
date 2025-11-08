@@ -1,1 +1,2 @@
-# This is conflict2.
+# This is version A
+
